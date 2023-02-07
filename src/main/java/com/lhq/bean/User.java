@@ -10,4 +10,8 @@ public class User {
         System.out.println("小伙子...");
         System.out.println("小伙子...");
     }
+
+    public void into() {
+        System.out.println("info...");
+    }
 }
