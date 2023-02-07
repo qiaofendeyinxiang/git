@@ -9,6 +9,7 @@ public class User {
         System.out.println("move....");
         System.out.println("小伙子...");
         System.out.println("小伙子...");
+        System.out.println("Push git");
     }
 
     public void into() {
