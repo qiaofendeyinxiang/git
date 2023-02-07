@@ -13,5 +13,6 @@ public class User {
 
     public void into() {
         System.out.println("傻逼...info...");
+        System.out.println("info...傻逼");
     }
 }
