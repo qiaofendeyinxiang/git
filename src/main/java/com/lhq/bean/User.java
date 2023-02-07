@@ -12,6 +12,6 @@ public class User {
     }
 
     public void into() {
-        System.out.println("info...");
+        System.out.println("傻逼...info...");
     }
 }
