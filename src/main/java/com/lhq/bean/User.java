@@ -10,6 +10,7 @@ public class User {
         System.out.println("小伙子...");
         System.out.println("小伙子...");
         System.out.println("Push git");
+        System.out.println("Pull git");
     }
 
     public void into() {
